@@ -1,0 +1,15 @@
+{
+  "short_name": "Bridge",
+  "name": "Terra Bridge",
+  "icons": [
+    {
+      "src": "logo_196.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
